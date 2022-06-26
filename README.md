@@ -31,4 +31,4 @@ Two implementations, one with doc2Vec and one with Sentence-Bert.
 
 For example, for the question "What are the coronaviruses?", the system can return the paper title "Distinct Roles for Sialoside and Protein Receptors in Coronavirus Infection" since this paper contains the answer to the asked question.
 
-Other questions can be found [here](https://drive.google.com/file/d/1XxqGTttbTqcrC88M3ZerpsCS10L0tVME/view?usp=sharing.
+Other questions can be found [here](https://drive.google.com/file/d/1XxqGTttbTqcrC88M3ZerpsCS10L0tVME/view?usp=sharing).
