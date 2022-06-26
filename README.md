@@ -13,11 +13,11 @@ Development of a sentiment classiffier using logistic regression for the [Twitte
 Sentiment classiffier using feed-forward neural networks for the [Twitter Sentiment Analysis Dataset](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view).
 
 Implementation of four models for the specific task.
-***
-*FNN_GLOVE.ipynb: Use of Glove data file to build corpus.
-*TRY_FFNN.ipynb: Only difference with FNN_GLOVE.ipynb is the use of corpora package from the gensim library. Very slow model.
-*AI2_FFNN.ipynb: Use of BERT pretrained model.
-*AI2_NOT_FFNN.ipynb: CNN and RNN using Glove.
+
+* FNN_GLOVE.ipynb: Use of Glove data file to build corpus.
+* TRY_FFNN.ipynb: Only difference with FNN_GLOVE.ipynb is the use of corpora package from the gensim library. Very slow model.
+* AI2_FFNN.ipynb: Use of BERT pretrained model.
+* AI2_NOT_FFNN.ipynb: CNN and RNN using Glove.
 
 ## Exercise 3
 
