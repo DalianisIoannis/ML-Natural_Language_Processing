@@ -2,13 +2,13 @@
 
 Projects implemented for the Course "Artificial Inteligence II" (Spring 2021).
 
-##Exercise 1
+## Exercise 1
 
 Implementation of gradient descent, stochastic gradient descent and mini-batch gradient descent for ridge regression in the toolkit Scikit-Learn. Use of the [California Housing Dataset](https://drive.google.com/file/d/1VUn2WKkKeRXwH02K9bqH98KjPxrUmgXh/view) to demonstrate the algorithms.
 
 Development of a sentiment classiffier using logistic regression for the [Twitter sentiment classiffication dataset](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view) Evaluation of the classiffier using precision, recall and F-measure.
 
-##Exercise 2
+## Exercise 2
 
 Sentiment classiffier using feed-forward neural networks for the [Twitter Sentiment Analysis Dataset](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view).
 
@@ -19,11 +19,11 @@ Implementation of four models for the specific task.
 *AI2_FFNN.ipynb: Use of BERT pretrained model.
 *AI2_NOT_FFNN.ipynb: CNN and RNN using Glove.
 
-##Exercise 3
+## Exercise 3
 
 Sentiment classiffier using a bidirectional stacked RNN with LSTM/GRU cells for the [Twitter sentiment analysis dataset](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view). One of the notebooks is enriched with Attention.
 
-##Exercise 4
+## Exercise 4
 
 Document retrieval system to return titles of scientific papers containing the answer to a given user question. We use the [COVID-19 Open Research Dataset (CORD-19)](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2020-03-13.tar.gz) (articles in the folder comm_use_subset).
 
