@@ -1,6 +1,6 @@
 # ML-Natural_Language_Processing
 
-Projects implemented for the Course "Artificial Inteligence II" (Spring 2021).
+Projects implemented for the Course "Artificial Intelligence II" (Spring 2021).
 
 ## Exercise 1
 
